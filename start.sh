@@ -1,0 +1,1 @@
+/home/ssm-user/CSGO/srcds_run -game csgo -console -port 27015 -maxplayers_override 16 -tickrate 64 -usercon +game_type 0 +game_mode 1 +mapgroup mg_active +maxplayers 16 +map de_dust2 +sv_setsteamaccount 0A622AD8A026503CE3EB6BE8B0062216 -net_port_try 1
